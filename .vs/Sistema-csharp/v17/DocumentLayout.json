@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|c:\\users\\murilo\\source\\repos\\sistema-csharp\\sistema-csharp\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|solutionrelative:sistema-csharp\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\sistema-csharp\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|solutionrelative:sistema-csharp\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\sistema-csharp\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|solutionrelative:sistema-csharp\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\sistema-csharp\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|solutionrelative:sistema-csharp\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\sistema-csharp\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|solutionrelative:sistema-csharp\\gerente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\sistema-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E238A3C0-14E2-4873-BF8D-EC5040B45271}|Sistema-csharp\\Sistema-csharp.csproj|solutionrelative:sistema-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Cliente.cs",
+              "RelativeDocumentMoniker": "Sistema-csharp\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Cliente.cs",
+              "RelativeToolTip": "Sistema-csharp\\Cliente.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:00:17.072Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Sistema-csharp\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Funcionario.cs",
+              "RelativeToolTip": "Sistema-csharp\\Funcionario.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:59:32.663Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Sistema-csharp\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Pessoa.cs",
+              "RelativeToolTip": "Sistema-csharp\\Pessoa.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:59:13.956Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gerente.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Gerente.cs",
+              "RelativeDocumentMoniker": "Sistema-csharp\\Gerente.cs",
+              "ToolTip": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Gerente.cs",
+              "RelativeToolTip": "Sistema-csharp\\Gerente.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:59:51.02Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Diretor.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Diretor.cs",
+              "RelativeDocumentMoniker": "Sistema-csharp\\Diretor.cs",
+              "ToolTip": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Diretor.cs",
+              "RelativeToolTip": "Sistema-csharp\\Diretor.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T23:00:35.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema-csharp\\Program.cs",
+              "ToolTip": "C:\\Users\\Murilo\\source\\repos\\Sistema-csharp\\Sistema-csharp\\Program.cs",
+              "RelativeToolTip": "Sistema-csharp\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T22:58:16.284Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\Murilo\source\repos\Sistema-csharp\Sistema-csharp\bin\Debug\Sistema-csharp.exe.config
+C:\Users\Murilo\source\repos\Sistema-csharp\Sistema-csharp\bin\Debug\Sistema-csharp.exe
+C:\Users\Murilo\source\repos\Sistema-csharp\Sistema-csharp\bin\Debug\Sistema-csharp.pdb
+C:\Users\Murilo\source\repos\Sistema-csharp\Sistema-csharp\obj\Debug\Sistema-csharp.csproj.AssemblyReference.cache
+C:\Users\Murilo\source\repos\Sistema-csharp\Sistema-csharp\obj\Debug\Sistema-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Murilo\source\repos\Sistema-csharp\Sistema-csharp\obj\Debug\Sistema-csharp.exe
+C:\Users\Murilo\source\repos\Sistema-csharp\Sistema-csharp\obj\Debug\Sistema-csharp.pdb
